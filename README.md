@@ -6,3 +6,14 @@ The dashboard enables business stakeholders to quickly understand what drives re
 
 ## Dataset Used
 - <a href = "https://www.kaggle.com/datasets/yashyennewar/product-sales-dataset-2023-2024"> Product-Sales-Dataset </a>
+
+## Business Questions
+- How are revenue and profits trending over time?
+- Which product categories and products contribute the most revenue and profit?
+- How do customer purchasing behaviors affect business performance?
+- Which regions and months should the business focus on for growth and retention?
+- Which months drive the highest revenue?
+- How do repeat vs unique customers impact revenue?
+- What percentage of revenue is driven by top products?
+- How can the business improve profitability and retention?
+
