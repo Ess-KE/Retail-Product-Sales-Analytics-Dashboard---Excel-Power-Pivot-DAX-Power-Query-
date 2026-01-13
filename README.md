@@ -44,3 +44,20 @@ The dashboard enables business stakeholders to quickly understand what drives re
 ## Dashboard
 ![screenshot dsb](https://github.com/user-attachments/assets/0ec3c431-e40f-4379-a05e-dfe6dd45b2da)
 
+## Key Dashboard Insights
+🔹 Revenue & Profit Performance
+Strong revenue acceleration in Q4, especially November.
+Profit trends follow revenue but highlight margin variations across categories.
+40% of products account for 80% of total revenue.
+🔹 Category Performance
+Home & Furniture leads in total profit.
+Clothing & Apparel and Electronics contribute high sales volumes.
+Accessories has lowest orders and profit contribution → opportunity for cross-selling.
+🔹 Customer Behavior
+High share of unique customers, meaning growth comes from acquisition.
+Repeat customers contribute significantly but vary by region.
+Average Order Value fluctuates across months.
+🔹 Regional Insights
+Centre region shows strong retention performance.
+The South region depends heavily on one-time buyers → opportunity for retention strategy.
+
