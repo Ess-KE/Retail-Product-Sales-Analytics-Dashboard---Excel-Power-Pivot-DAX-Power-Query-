@@ -1,2 +1,5 @@
-# Retail Sales & Profit Analytics Dashboard
-Designed an interactive Retail Sales & Profit dashboard to analyze revenue trends, profitability, customer behavior, and product performance across multiple categories and regions. Extracted insights to support data-driven decision-making using Excel Power Pivot, DAX calculations, dynamic filters, and interactive visualizations.
+# Retail-Product-Sales-Analytics-Dashboard (Excel + Power Pivot + DAX + Power Query)
+
+## Project Objective
+This project analyzes a Product Sales dataset (2023–2024) to uncover insights on revenue performance, profit trends, customer behavior, and product strategy.
+The dashboard enables business stakeholders to quickly understand what drives revenue, profit, and growth—and where strategic action is needed.
