@@ -17,3 +17,20 @@ The dashboard enables business stakeholders to quickly understand what drives re
 - What percentage of revenue is driven by top products?
 - How can the business improve profitability and retention?
 
+## Key Analysis Performed
+- Revenue & Profit Trend Analysis
+- Month-over-Month Growth
+- Customer Segmentation (Repeat vs New)
+- Category Revenue & Profit Breakdown
+- Best Performing & Most Profitable Products
+- Pareto (80/20) Revenue Contribution
+- AOV Analysis
+
+## Tech Stack
+- Excel
+- Power Query (data cleaning and transformation)
+- Power Pivot
+- DAX
+- Data Visualization
+- Business Analytics
+- Visualization & Insights Storytelling
