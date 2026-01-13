@@ -34,3 +34,13 @@ The dashboard enables business stakeholders to quickly understand what drives re
 - Data Visualization
 - Business Analytics
 - Visualization & Insights Storytelling
+
+## Process
+- Verify data for any missing values or anomalies.
+- Make sure data is consistent and clean with respect to data type, data format and values used.
+- Create pivot charts according to the business questions asked.
+- Merge all pivot charts into one dashboard and apply slicers to make it dynamic.
+
+## Dashboard
+![screenshot dsb](https://github.com/user-attachments/assets/0ec3c431-e40f-4379-a05e-dfe6dd45b2da)
+
